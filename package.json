@@ -1,0 +1,48 @@
+{
+  "name": "loop-drop-audio-context",
+  "version": "1.0.0",
+  "description": "AudioContext prepopluted with all the soundbank modules used in Loop Drop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmckegg/loop-drop-audio-context.git"
+  },
+  "keywords": [
+    "loopjs",
+    "waapi",
+    "soundbank",
+    "loop",
+    "drop"
+  ],
+  "dependencies": {
+    "inheritable-audio-context": "^1.0.2",
+    "bopper": "^1.0.0",
+    "soundbank": "~0.4.1",
+    "soundbank-slice": "~0.0.1",
+    "soundbank-delay": "~0.1.0",
+    "soundbank-overdrive": "~0.0.1",
+    "soundbank-oscillator": "~0.0.1",
+    "soundbank-sample": "~0.2.0",
+    "soundbank-inherit": "~0.1.0",
+    "soundbank-scale": "~0.0.1",
+    "soundbank-multi": "~0.0.1",
+    "soundbank-dipper": "~0.1.0",
+    "soundbank-pitch-shift": "~1.0.1",
+    "bitcrusher": "~0.2.0",
+    "adsr": "^0.1.0",
+    "lfo": "^1.0.1",
+    "soundbank-slide": "~0.0.1"
+  },
+  "author": "Matt McKegg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmckegg/loop-drop-audio-context/issues"
+  },
+  "homepage": "https://github.com/mmckegg/loop-drop-audio-context",
+  "devDependencies": {
+    "soundbank": "^0.4.1"
+  }
+}

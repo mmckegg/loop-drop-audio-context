@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "inheritable-audio-context": "^1.0.2",
-    "bopper": "^1.0.0",
+    "bopper": "^2.0.0",
     "soundbank": "~0.4.1",
     "soundbank-slice": "~0.0.1",
     "soundbank-delay": "~0.1.0",

@@ -23,6 +23,7 @@ audioContext.providers = {
 }
 
 audioContext.modulators = {
+  input: require('./lib/input.js'),
   lfo: require('lfo'),
   adsr: require('adsr'),
   slide: require('soundbank-slide')

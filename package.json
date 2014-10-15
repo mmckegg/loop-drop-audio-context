@@ -27,7 +27,7 @@
     "soundbank-oscillator": "^1.1.0",
     "soundbank-sample": "^1.0.0",
     "soundbank-inherit": "~0.1.0",
-    "soundbank-scale": "~0.0.1",
+    "soundbank-scale": "~0.1.0",
     "soundbank-multi": "~0.0.1",
     "soundbank-dipper": "~0.1.0",
     "soundbank-pitch-shift": "^1.0.1",

@@ -11,7 +11,8 @@ clock.start()
 
 audioContext.sources = {
   sample: require('soundbank-sample'),
-  oscillator: require('soundbank-oscillator')
+  oscillator: require('soundbank-oscillator'),
+  granular: require('soundbank-granular')
 }
 
 audioContext.providers = {
@@ -36,7 +37,8 @@ audioContext.processors = {
   dipper: require('soundbank-dipper'),
   overdrive: require('soundbank-overdrive'),
   bitcrusher: require('bitcrusher').bind(this, audioContext, {bufferSize: 256}),
-  pitchshift: require('soundbank-pitch-shift')
+  pitchshift: require('soundbank-pitch-shift'),
+  reverb: require('soundbank-reverb')
 }
 
 audioContext.sampleCache = {}

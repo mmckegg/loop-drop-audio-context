@@ -20,7 +20,7 @@
   "dependencies": {
     "adsr": "^0.1.0",
     "bitcrusher": "~0.2.0",
-    "bopper": "^2.3.0",
+    "bopper": "^2.4.0",
     "inheritable-audio-context": "^1.0.2",
     "lfo": "^2.0.0",
     "soundbank": "~0.7.0",

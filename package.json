@@ -1,6 +1,6 @@
 {
   "name": "loop-drop-audio-context",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "AudioContext prepopluted with all the soundbank modules used in Loop Drop",
   "main": "index.js",
   "scripts": {
